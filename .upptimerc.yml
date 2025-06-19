@@ -7,6 +7,8 @@ sites:
     url: https://www.8fans.com
   - name: energie
     url: https://en.u-energie.de
+  - name: grafana
+    url: https://grafana.mw.shopastro.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
