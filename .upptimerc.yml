@@ -7,6 +7,8 @@ sites:
     url: https://www.8fans.com
   - name: energie
     url: https://en.u-energie.de
+  - name: lubluelu
+    url: https://lubluelu.com
   - name: grafana
     url: https://grafana.mw.shopastro.com
 
